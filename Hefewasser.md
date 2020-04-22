@@ -1,10 +1,9 @@
 # Wildhefewasser-Herstellung, -Pflege und -Basis-Rezepte
 
-## Inhaltsverzeichnis
+<h2>Inhaltsverzeichnis</h2>
 
 <!-- TOC depthFrom:2 -->
 
-- [Inhaltsverzeichnis](#inhaltsverzeichnis)
 - [Einleitung](#einleitung)
 - [Erst-Herstellung](#erst-herstellung)
   - [Grundansatz](#grundansatz)
@@ -29,7 +28,7 @@
 
 ## Einleitung
 
-Hefewasser schmeckt leicht säurerlich (wie saure Milch), eventuell alkoholisch und natürlich nach Hefe.
+Hefewasser schmeckt leicht säuerlich (wie saure Milch), eventuell alkoholisch und natürlich nach Hefe.
 Falls dies anders sein sollte oder sich allenfalls Schimmel gebildet hat, ist vorsicht geboten!
 
 Deshalb sind folgende Punkte ein absollutes muss:
@@ -111,7 +110,7 @@ Folgende Zutaten werden verwendet:
 - 400g Wasser
 - 20g Zucker
 - 5g Salz
-- Zwei Feigen; in kleine Stücke geschnitten 
+- Zwei Feigen; in kleine Stücke geschnitten
 
 Arbeitsgeräte:
 
@@ -144,7 +143,7 @@ Folgende Zutaten werden verwendet:
 - 700g Wasser
 - 35g Zucker
 - 3,5g Salz
-- Zwei Feigen; in kleine Stücke geschnitten 
+- Zwei Feigen; in kleine Stücke geschnitten
 
 Arbeitsgeräte:
 
@@ -164,7 +163,7 @@ Falls möglich sollte dies öfters passieren.
 
 ## Aufbewahrung
 
-Das Hefewasser kann in einer Glasflasche im Kühlschrank aufbewahrt werden, die gut gschliesst. 
+Das Hefewasser kann in einer Glasflasche im Kühlschrank aufbewahrt werden, die gut schliesst.
 Am besten wird täglich der Druck aus der Flasche abgelassen, geschüttelt und erneut den Druck abgelassen.
 
 So hält das Hefewasser mindestens 2 Monate.
